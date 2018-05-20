@@ -26,15 +26,3 @@ Then access the URL in browser like this:
 
     http://xxx.xxx.xxx.xxx:port
 
-## License
-
-MIT and LGPL-3.0 dual
-
-## Author
-
-Kiran G <kiran at gadgeon dot com>
-
-## Copyright
-
-Gadgeon Smart Systems Pvt Ltd
-
