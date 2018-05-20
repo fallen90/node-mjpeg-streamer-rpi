@@ -1,5 +1,5 @@
 {
-  "name": "mjpeg-streamer",
+  "name": "mjpeg-streamer-rpi",
   "version": "0.0.7",
   "description": "Mjpeg streamer with v4l2 as camera interface",
   "main": "mjpeg-streamer.js",
@@ -17,18 +17,10 @@
     "bin": {
     "mjpeg-streamer": "./mjpeg-streamer.js"
     },
-  "repository": {
-    "type": "git",
-    "url": "https://kiran-geon@github.com/kiran-geon/node-mjpeg-streamer.git"
-  },
   "keywords": [
     "mjpeg",
     "v4l2",
     "streamer"
   ],
-  "author": "Kiran G <kiran@gadgeon.com>",
-  "license": ["MIT","LGPL-3.0"],
-  "bugs": {
-    "url": "https://github.com/kiran-geon/node-mjpeg-streamer/issues"
-  }
+  "license": ["MIT","LGPL-3.0"]
 }

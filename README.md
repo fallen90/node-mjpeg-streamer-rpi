@@ -1,4 +1,4 @@
-# node-mjpeg-streamer
+# node-mjpeg-streamer-rpi
  Mjpeg streamer with v4l2 as camera interface
  
  Based on example code from [v4l2camera](https://github.com/bellbind/node-v4l2camera/blob/master/examples/image-stream-server.js)
